@@ -1,0 +1,23 @@
+.jContenidoImagen {
+  width: 100%;
+  padding: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.jContenidoImagen a {
+  font-weight: bold;
+  color:  #FFDE00;
+}
+.jContenidoImagen p {
+  font-size: 24px;
+  color: white;
+}
+
+#jImagenBuilding {
+  height: 350px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/ship0.jpg");
+}
